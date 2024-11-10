@@ -1,0 +1,54 @@
+"To establish a baseline, consider the following scenario: ExitAI predicts that StartupX will have a successful exit (e.g., M&A or IPO) but provides no explanations for this prediction. 
+How much do you trust this prediction from the AI system with no explanations provided? (We understand that it may be challenging to trust the prediction without any explanations.). 1 - not at all, 6 - fully trust","GPT TEXT -  To what extent would you trust ExitAI to include StartupX in the top 100 startups for detailed evaluation, without committing investment funds at this stage?","SHAP - Trust: To what extent would you trust ExitAI to include StartupX in the top 100 startups for detailed evaluation, without committing investment funds at this stage?","FEATURE RICH - GPT TEXT - To what extent would you trust ExitAI to include StartupX in the top 100 startups for detailed evaluation, without committing investment funds at this stage?","FEATURE RICH - SHAP - Trust: To what extent would you trust ExitAI to include StartupX in the top 100 startups for detailed evaluation, without committing investment funds at this stage?","Please rank the explanations you received from 1 to 4, where 1 is the least understandable and 4 is the most understandable. Each number should be used only once.  [Text Explanation]","Please rank the explanations you received from 1 to 4, where 1 is the least understandable and 4 is the most understandable. Each number should be used only once.  [Graph Explanation]","Please rank the explanations you received from 1 to 4, where 1 is the least understandable and 4 is the most understandable. Each number should be used only once.  [Feature Rich ChatGPT Text Explanation ]","Please rank the explanations you received from 1 to 4, where 1 is the least understandable and 4 is the most understandable. Each number should be used only once.  [Feature Rich Graph Explanation]","Please rank the following explanations in order of trust, with 1 being the most trusted and 4 being the least trusted. Each number should be used only once. [Text Explanation]","Please rank the following explanations in order of trust, with 1 being the most trusted and 4 being the least trusted. Each number should be used only once. [Graph Explanation]","Please rank the following explanations in order of trust, with 1 being the most trusted and 4 being the least trusted. Each number should be used only once. [Feature Rich ChatGPT Text Explanation ]","Please rank the following explanations in order of trust, with 1 being the most trusted and 4 being the least trusted. Each number should be used only once. [Feature Rich Graph Explanation ]","On average, how many startups are evaluated each month by the fund you are or were associated with?",How likely is your fund to use solutions like ExitAI for supporting venture capital investment decisions in the coming years?,To what extent has artificial intelligence (AI) or data analytics influenced your fund's investment decision-making process?,AI EXPERTISE GROUP,XAI GROUP,How do you rate the importance of artificial intelligence (AI) and explainable artificial intelligence (XAI) in the future of venture capital investment?,Age,Assets,Position,Stages,YEARS IN VENTURE CAPITAL ,What is your gender,What is your highest level of education 
+2,2,3,3,axx,1,2,3,4,1,2,3,4,25 years of investment experience ….,2,4,HIGH,HIGH,5,Older,$2B - $10B,Managing Partner,Early Stage,More than 10 years,Female,Master's Degree
+3,1,3,6,4,4,2,3,1,1,4,2,3,0,4,2,LOW,LOW,2,Older,$500M - $2B,Analyst,Early Stage,Up to 3 years,Prefer not to say,Bachelor's Degree
+2,4,3,4,3,2,1,4,3,2,1,4,3,40,3,2,LOW,LOW,4,Younger,$500M - $2B,Associate,Early Stage,Up to 3 years,Male,Master's Degree
+1,2,1,5,4,3,1,4,2,3,2,4,1,5,2,2,HIGH,LOW,5,Older,LOW,Managing Partner,Seed,More than 10 years,Male,Bachelor's Degree
+2,3,3,4,5,1,2,3,4,2,1,4,3,75,4,1,LOW,LOW,5,Older,LOW,Managing Partner,Seed,4-6 years,Male,Bachelor's Degree
+2,3,3,2,3,1,2,3,4,1,2,3,4,60,6,4,HIGH,LOW,6,Younger,LOW,Associate,Early Stage,4-6 years,Male,Bachelor's Degree
+4,4,3,4,4,1,2,3,4,2,3,4,1,0,5,4,HIGH,LOW,5,Older,LOW,Analyst,Early Stage,7-10 years,Male,Bachelor's Degree
+2,4,3,5,3,3,1,4,2,3,1,4,2,100,5,5,LOW,LOW,4,Younger,LOW,Associate,Early Stage,Up to 3 years,Male,Master's Degree
+1,1,1,1,1,2,1,4,3,2,1,4,3,10,4,5,LOW,LOW,6,Older,LOW,Managing Partner,Early Stage,More than 10 years,Male,Bachelor's Degree
+1,1,1,3,4,4,3,2,1,,,,,20,6,1,HIGH,HIGH,5,Younger,LOW,Managing Partner,Early Stage,7-10 years,Female,Master's Degree
+3,4,5,4,5,4,2,3,1,4,2,3,1,125,6,5,HIGH,HIGH,6,Older,$2B - $10B,Managing Partner,Growth,7-10 years,Male,Bachelor's Degree
+1,1,1,5,5,1,2,4,3,1,2,4,3,50,4,3,HIGH,HIGH,6,Older,LOW,Managing Partner,Early Stage,7-10 years,Male,Bachelor's Degree
+4,5,4,5,5,1,3,2,4,1,3,2,4,"Dozens . Would use if it is a saas fee like chatgpt , gust, karda or part of these solutions (no data work on my end - part of the deal management solution",4,1,LOW,LOW,5,Older,LOW,Managing Partner,Growth,Up to 3 years,Male,PhD.
+2,3,4,5,5,1,2,3,4,1,2,3,4,125,6,4,HIGH,LOW,5,Older,LOW,Managing Partner,Growth,More than 10 years,Male,Master's Degree
+2,3,4,4,5,1,2,3,4,1,2,3,4,150,5,1,HIGH,HIGH,6,Younger,HIGH,Analyst,Growth,4-6 years,Male,Bachelor's Degree
+1,1,3,4,5,1,2,3,4,1,2,3,4,50,4,1,HIGH,HIGH,5,Older,LOW,Analyst,Early Stage,Up to 3 years,Male,PhD.
+2,1,1,4,5,1,2,3,4,1,2,3,4,40,3,1,HIGH,LOW,4,Older,HIGH,Managing Partner,Growth,Up to 3 years,Male,PhD.
+2,1,2,4,4,1,2,3,4,1,2,3,4,100,4,1,HIGH,LOW,4,Older,HIGH,Managing Partner,Growth,More than 10 years,Male,Master's Degree
+1,1,1,4,5,1,2,3,4,1,2,3,4,15,6,1,LOW,LOW,6,Older,LOW,Managing Partner,Early Stage,More than 10 years,Male,Master's Degree
+1,1,1,3,2,1,2,3,4,1,2,3,4,75,6,1,LOW,LOW,5,Older,LOW,Managing Partner,Early Stage,More than 10 years,Male,Bachelor's Degree
+1,2,2,5,5,2,1,4,3,2,1,4,3,50,5,3,LOW,HIGH,6,Younger,HIGH,Managing Partner,Early Stage,Up to 3 years,Female,Master's Degree
+1,2,3,3,4,1,2,3,4,1,2,3,4,40,5,1,HIGH,HIGH,5,Older,LOW,Managing Partner,Early Stage,More than 10 years,Female,Master's Degree
+2,3,2,4,4,2,1,4,3,2,1,4,3,100,5,1,HIGH,HIGH,4,Younger,LOW,Analyst,Early Stage,Up to 3 years,Male,Bachelor's Degree
+3,1,2,5,4,1,2,3,4,1,2,3,4,50,4,1,LOW,HIGH,4,Younger,LOW,Managing Partner,Early Stage,4-6 years,Male,Bachelor's Degree
+2,2,2,4,3,2,1,4,3,2,1,4,3,80,4,1,LOW,HIGH,4,Younger,LOW,Managing Partner,Early Stage,4-6 years,Male,Master's Degree
+3,2,3,5,4,2,1,4,3,2,1,4,3,80,3,2,HIGH,HIGH,4,Younger,HIGH,Analyst,Early Stage,Up to 3 years,Male,Master's Degree
+2,3,4,4,5,1,2,3,4,1,2,3,4,60,6,2,HIGH,HIGH,6,Older,HIGH,Managing Partner,Early Stage,7-10 years,Male,Bachelor's Degree
+3,4,2,3,3,2,1,4,3,2,1,4,3,100,4,1,LOW,HIGH,5,Older,LOW,Associate,Early Stage,4-6 years,Male,Master's Degree
+1,3,4,4,5,1,2,3,4,1,2,3,4,100,5,1,HIGH,HIGH,4,Younger,HIGH,Managing Partner,Growth,4-6 years,Male,Bachelor's Degree
+2,3,4,5,5,1,2,3,4,1,2,3,4,75,5,1,HIGH,HIGH,4,Younger,HIGH,Analyst,Growth,Up to 3 years,Female,Bachelor's Degree
+3,3,2,4,3,2,1,4,3,2,1,4,3,,4,1,LOW,HIGH,4,Younger,LOW,Managing Partner,Early Stage,4-6 years,Female,Master's Degree
+2,2,3,5,3,2,1,4,3,2,1,4,3,100,4,2,HIGH,LOW,3,Younger,LOW,Analyst,Early Stage,Up to 3 years,Male,Bachelor's Degree
+1,2,3,4,4,2,1,4,3,2,1,4,3,90,4,1,LOW,LOW,,Older,LOW,Managing Partner,Early Stage,7-10 years,Male,Master's Degree
+3,2,2,4,4,1,2,3,4,1,2,3,4,100,5,1,HIGH,HIGH,4,Younger,LOW,Analyst,Early Stage,Up to 3 years,Male,Bachelor's Degree
+2,3,3,5,4,2,1,4,3,2,1,4,3,100,5,1,HIGH,HIGH,4,Older,HIGH,Associate,Early Stage,4-6 years,Male,Bachelor's Degree
+2,2,2,4,3,2,1,4,3,2,1,4,3,60,4,1,LOW,HIGH,4,Younger,LOW,Managing Partner,Seed,7-10 years,Male,Master's Degree
+3,3,2,4,5,1,2,3,4,1,2,3,4,50,3,1,LOW,LOW,5,Older,HIGH,Managing Partner,Early Stage,7-10 years,Male,Bachelor's Degree
+2,3,2,5,3,2,1,4,3,2,1,4,3,,3,1,LOW,LOW,3,Younger,LOW,Managing Partner,Growth,4-6 years,Female,Bachelor's Degree
+2,3,2,5,3,2,1,4,3,2,1,4,3,40,3,1,LOW,HIGH,3,Younger,LOW,Managing Partner,Growth,4-6 years,Female,Bachelor's Degree
+2,2,1,4,3,2,1,4,3,2,1,4,3,30,3,1,LOW,LOW,3,Younger,LOW,Managing Partner,Early Stage,7-10 years,Male,Bachelor's Degree
+1,3,2,4,3,2,1,4,3,2,1,4,3,30,3,1,LOW,LOW,,Older,LOW,Managing Partner,Seed,7-10 years,Male,Master's Degree
+3,2,3,4,5,1,2,3,4,1,2,3,4,50,5,3,HIGH,HIGH,5,Older,LOW,Managing Partner,Early Stage,Up to 3 years,Male,Bachelor's Degree
+1,3,2,5,3,2,1,4,3,2,1,4,3,100,5,2,LOW,HIGH,5,Older,LOW,Managing Partner,Early Stage,More than 10 years,Female,Master's Degree
+1,3,4,4,5,1,2,3,4,1,2,3,4,100,5,1,HIGH,HIGH,5,Older,LOW,Managing Partner,Early Stage,More than 10 years,Male,Master's Degree
+2,3,2,5,5,2,1,4,3,2,1,4,3,90,4,1,LOW,LOW,3,Younger,HIGH,Analyst,Early Stage,Up to 3 years,Female,Bachelor's Degree
+1,2,2,4,4,2,1,4,3,2,1,4,3,25,3,1,HIGH,LOW,3,Older,LOW,Managing Partner,Growth,7-10 years,Male,PhD.
+2,2.418604651,2.488372093,4.139534884,3.928571429,,,,,,,,,,,,,,,,,,,,,
+0.845154255,1.051813811,1.032152006,0.914991422,0.997383336,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,"HIGH,LOW,LOW,LOW,LOW,LOW,LOW,LOW,LOW,HIGH,HIGH,HIGH,LOW,LOWHIGH,HIGH,LOW,LOW,LOW,LOW,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH",,,,,,,,
+,,,,,,,,,,,,,,,,,"HIGH,HIGH,HIGH,HIGH,LOW,LOW,HIGH,HIGH,HIGHLOW,LOW,HIGH,LOW,LOW,HIGH,HIGH,HIGH,LOW",,,,,,,,
+,,,,,,,,,,,,,,,,,"HIGH,LOW,LOW,LOW,LOW,LOW,LOW,LOW,LOW,HIGH,HIGH,HIGH,LOW,LOWHIGH,HIGH,LOW,LOW,LOW,LOW,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,HIGH,LOW,LOW,HIGH,HIGH,HIGHLOW,LOW,HIGH,LOW,LOW,HIGH,HIGH,HIGH,LOW",,,,,,,,
+1.904761905,2.285714286,2.476190476,4,4.1,,,,,,,,,,,,,,,,,,,,,
